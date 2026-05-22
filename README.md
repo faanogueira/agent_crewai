@@ -1,5 +1,21 @@
 # 🤖 Agente Wikipedia com CrewAI + Ollama
 
+<div align="center">
+  <img src="agent_crewai.png" width="100%" alt="Capa do Projeto">
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/LlamaIndex-Core-7C3AED?style=flat)
+![CrewAI](https://img.shields.io/badge/Google%20Gemini-2.0%20Flash-4285F4?style=flat&logo=google&logoColor=white)
+![Localhost](https://img.shields.io/badge/RAG-LlamaIndex%20%2B%20Gemini-8B5CF6?style=flat)
+
+</div>
+
+---
+
+---
 > Agente de IA capaz de pesquisar, extrair e resumir artigos da Wikipedia de forma autônoma,  
 > utilizando arquitetura multi-agente com **CrewAI** e inferência local via **Ollama**.
 
